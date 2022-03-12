@@ -1,23 +1,26 @@
 # competition-heartbreak
-competition registration/check in try to beable to utilize judging component with given info
+Competition is a registration/check-in for scheduled competitions. Able to utilize a judging/placement components with registered particpants.
 
-wanting to use: ReactJS/NodeJS
+Wanting to use: ReactJS/NodeJS (open to learn simplest form)
 
-ABOUT: set up a form for contestants to register/ and inturn utilize given information to check in participants the day of competition (later-date)
+ABOUT: Second major project, of which i'm attempting to learn encryption/back-end to learn how to communicate information provided to myself as well as other needed participants.
 
-SETUP: a form to gather participant info (100+ possible participants) > (encrypt) > 
+SETUP: a form to gather participant info > (encrypt) > npm for judging system? > create accounts > start/end register date > send registered particpants to host
 
-allow admin access(host of comp) 
-setup judges accounts (3)>
+Allow admin access(host of comp) 
+Setup judges accounts 3.
 
-set up a search list of particpants to place in 2 tourney style = 1 winner interchangeable w/participants
+Bonus:
+Set up a search list of particpants to place in 2 tourney style = 1 winner interchangeable w/participants. Easy platform for judges to select participants and judge.
 
-
+------------------------------------------------------------
 Welcome Skaters to the Event you have all been waiting for!
-HEARTBREAK 2022
-at Sk8tona in Deltona, Florida
+
+HEARTBREAK 2022 at Sk8tona in Deltona, Florida
+
 Hosted By KNTRFT
 Sponsored by: VNLA, Riedell, Chaya
+
 This Year we are going to be doing things a little bit differently because we are incorporating more skaters from more skates styles then ever before!
 This year at HeartBreak we will be hosting the first All Skate Cypher Championship!
 
@@ -40,5 +43,8 @@ Saturday April 30th
 Sunday May 1st- Beach Party Day Skate
 12-3pm- board walk farewell skate party
 
+
 WEEKEND PASS-$35
 COMPETITOR PASS- $50 
+
+------------------------------------------------------------
